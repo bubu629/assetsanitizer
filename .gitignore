@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.lic
+demo_ai_assets/
+sanitized_clean/

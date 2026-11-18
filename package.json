@@ -1,0 +1,7 @@
+{
+  "name": "assetsanitizer",
+  "version": "1.0.0",
+  "description": "Air-gapped C2PA, AI prompt & metadata binary scrubber for PNG, JPEG & WebP",
+  "main": "index.js",
+  "bin": "index.js"
+}
